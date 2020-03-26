@@ -1,18 +1,20 @@
-@font-face {
+@font-face{
     font-family: 'cooper_blackregular';
     src: url('cooper_black_regular-webfont.woff2') format('woff2'),
          url('cooper_black_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
-.name {
+
+.name{
     font-family: 'Lato', sans-serif;
     text-align: center;
     margin: 150px 150px 30px 150px;
     font-size: 60px;
     color: #FFC956;
 }
-.homepage {
+
+.homepage{
     font-family: 'Lato', sans-serif;
     text-align: center;
     font-size: 18px;
@@ -31,14 +33,17 @@
     margin: 20px;
     display: block;
 }
+
 a:link{
     text-decoration: none;
     color: black;
     padding: 5px;
 }
-a:visited {
+
+a:visited{
     color: black;
 }
+
 a:hover{
    color: #FF994A;
    font-weight: 800;
