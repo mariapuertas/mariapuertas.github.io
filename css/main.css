@@ -14,7 +14,7 @@
 }
 .homepage {
     font-family: 'Lato', sans-serif;
-    text-align: right;
+    text-align:  center;
     font-size: 18px;
     color: black;
     font-weight: 300;
@@ -41,7 +41,7 @@ a:visited {
 }
 a:hover{
    color: #FF994A;
-   font-weight: 900;
+   font-weight: 800;
 }
 
 .workbody{
