@@ -17,7 +17,8 @@
 .homepage{
     font-family: 'Lato', sans-serif;
     text-align: left;
-    padding: 0px 0px 0px 200px;
+    position: relative;
+    left: 200;
     font-size: 18px;
     color: black;
     font-weight: 300;
